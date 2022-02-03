@@ -1,0 +1,25 @@
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+body {
+	font-family: "lato", sans-serif;
+	color: #424551;
+	font-size: 16px;
+	line-height: 160%;
+}
+.title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+.article-text-1,
+.article-text-3 {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+.list {
+	text-indent: 32px;
+}

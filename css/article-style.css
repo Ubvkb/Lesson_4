@@ -1,0 +1,129 @@
+/* &display=swap */
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Montserrat:regular,500,700,900,500italic,600italic,700italic,900italic&display=swap);
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&display=swap");
+@font-face {
+	font-family: Caveat;
+	src: url("../fonts/Caveat-Regular.woff2") format("woff2"), url("../fonts/Caveat-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: Caveat;
+	src: url("../fonts/Caveat-Medium.woff2") format("woff2"), url("../fonts/Caveat-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: Caveat;
+	src: url("../fonts/Caveat-Bold.woff2") format("woff2"), url("../fonts/Caveat-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+}
+body {
+	line-height: 1.5;
+	font-size: 18px;
+}
+.header {
+}
+[class*="menu"] {
+	text-align: right;
+	font-family: "pangolin", cursive;
+	text-decoration: overline;
+}
+.header-menu {
+}
+.list-1 span {
+	color: darkblue;
+}
+.description {
+}
+[class*="title"] {
+	font-family: "montserrat", sans-serif;
+	line-height: 2;
+	text-decoration: underline;
+	text-align: center;
+	word-spacing: 20px;
+	text-transform: uppercase;
+}
+[class*="sub"] {
+	font-weight: 700;
+	font-size: 30px;
+	color: rgb(255, 94, 0);
+	font-style: italic;
+	text-shadow: 10px 10px 10px rgba(107, 79, 12, 0.527), -10px -10px 10px rgba(107, 79, 12, 0.527);
+}
+.title {
+	font-weight: 900;
+	font-size: 35px;
+	color: chartreuse;
+	text-shadow: 10px 10px 1px rgba(25, 196, 131, 0.233);
+}
+p {
+	text-indent: 40px;
+}
+.description-text {
+	font-family: "caveat", cursive;
+	text-align: justify;
+	font-size: 25px;
+	letter-spacing: 10px;
+}
+.about {
+}
+.sub-title-1 {
+}
+.about-text-1 {
+	font-family: "montserrat", sans-serif;
+	font-weight: 500;
+	text-indent: 40px;
+	text-transform: capitalize;
+}
+.about-text-2 {
+	font-family: "montserrat", sans-serif;
+	font-weight: 700;
+	text-transform: lowercase;
+}
+.img-1 {
+}
+.about-text-3 {
+	font-family: "montserrat", sans-serif;
+	font-weight: 900;
+}
+.about-text-4 {
+	font-family: "bitter", serif;
+}
+.list-2 {
+	text-decoration: line-through;
+	text-indent: 40px;
+	white-space: nowrap;
+	font-family: "montserrat", sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.about-trxt-5 {
+	font-family: "bitter", serif;
+	font-weight: 700;
+}
+.energy {
+}
+.sub-title-2 {
+}
+.energy-text-1 {
+	font-family: "caveat", cursive;
+	font-weight: 500;
+}
+.energy-text-2 {
+	font-family: "caveat", cursive;
+	font-weight: 700;
+}
+.footer {
+}
+.footer-menu {
+}
+.list-3 span {
+	color: darkblue;
+}
